@@ -41,7 +41,7 @@ for i in dict.keys():
     
 # OR you can use
 
-print(dict.items())
+print("Dict Itmes: ",dict.items())
 
 for k,v in dict.items():
     print(k,v)
