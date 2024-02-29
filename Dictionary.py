@@ -61,3 +61,4 @@ dict1.update(dict2)
 # Note: if dict 2 have same keys as dict1 then if we try to update dict1 with dict2 then it will overwrite the value of dict1 according to key value configs.
 print(dict1)
 
+dict
